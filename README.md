@@ -1,5 +1,5 @@
 # Brutal - The neobrutalist Astro theme
-Template by ElianCodes Elian.
+Template by ElianCodes.
 
 Brutal is a minimal neobrutalist theme for [Astro](https://astro.build/). It's based on Neobrutalist Web Design, a movement that aims to create websites with a minimalistic and functional design. It has some integrations like Image Optimization, RSS, Sitemap, ready to get your SEO done right.
 
