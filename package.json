@@ -1,8 +1,8 @@
 {
-  "name": "green-giant",
+  "name": "astro-template-brutal",
   "version": "1.2.0",
   "type": "module",
-  "packageManager": "pnpm@8.6.0",
+  "packageManager": "yarn@1.22.22",
   "author": {
     "name": "Elian Van Cutsem",
     "email": "hello@elian.codes",
@@ -12,7 +12,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "yarn check && yarn build",
     "preview": "astro preview",
     "astro": "astro"
   },
